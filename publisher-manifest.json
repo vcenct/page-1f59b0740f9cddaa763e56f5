@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9691fa3a58b35ea058b54c09",
+  "owner": "vcenct",
+  "repo": "page-1f59b0740f9cddaa763e56f5",
+  "title": "Clash Mi服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1f59b0740f9cddaa763e56f5",
+      "a": "墙洞(Dler)",
+      "b": "Clash Mi服务商官网",
+      "entity": "墙洞(Dler)",
+      "brand": "Clash Mi服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c22dfaee5fd43a48722a95cc01c09c32ace00951e47b6fb0a256b270b3f9fdd0",
+      "content": {
+        "primary_entity": "墙洞(Dler)",
+        "keyword1": "墙洞(Dler)",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择订阅客户端并导入配置。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐并完成订阅配置，即可开始使用墙洞(Dler)的加速服务。",
+          "AI_CLOSING_TITLE": "开启加速体验",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35 与 ¥85，年付分别仅需 ¥150、¥350 与 ¥850。旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版提供 VIP 专属高带宽节点与企业定制路由。结合设备数量与订阅周期选择，能更匹配日常使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度了解墙洞(Dler)。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月，含 100GB 流量，适合单人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月，支持 5 台设备，覆盖流媒体与游戏场景。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月，1000GB 流量与 20 台设备，适合多人协作。",
+          "AI_FEATURE_TITLE_1": "套餐定位",
+          "AI_FEATURE_TITLE_2": "设备匹配",
+          "AI_FEATURE_TITLE_3": "周期成本",
+          "AI_GUIDE_INTRO": "从选择套餐到导入订阅，三步完成初始配置。",
+          "AI_GUIDE_TITLE": "三步使用指引",
+          "AI_HERO_INTRO": "墙洞(Dler)提供多种海外加速订阅方案，覆盖基础流媒体、IPLC 专线游戏加速与企业定制路由，按设备数量和流量需求选择合适套餐。",
+          "AI_HERO_SUBTITLE": "多档订阅，灵活匹配设备",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与流媒体解锁",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多人高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数与预算，从基础版、旗舰版和团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认所选套餐的节点线路、设备上限与年付优惠，判断是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅地址，完成节点配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "墙洞(Dler)订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，提供 100GB 流量与 3 台设备；旗舰版增加至 300GB 流量、5 台设备并加入 IPLC 专线游戏优化；团队版提供 1000GB 流量、20 台设备与专属客户经理服务。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "依据所选档位而定，基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。超出数量时会出现连接冲突，建议先统计常用终端后再升级档位。",
+          "AI_FAQ_QUESTION_3": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。按年付费相当于少付两个月，长期使用更为划算。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装匹配系统的客户端，再按客户端文档导入订阅链接或配置文件，加载完成后选择节点即可连接。不同客户端菜单名称略有差异，以所用客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 20 台设备与 1000GB 月流量，并支持企业定制路由，适合小型工作室或多人协作团队统一管理订阅和线路分配。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d632d6fb14d620ae87c0ac3e1c68a8a62ebfcd6c6c098403f92dffec25a37f01",
+    "sitemap.xml": "26b4f6eec3f7327e1ba4956d17ce137bfcecb6a99a95876920da9abbfb6d7e09",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "26eb08e243801238d941afa3dee121f7d2061cc6d230ca73f31d8b76796b290f"
+}
